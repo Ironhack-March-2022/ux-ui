@@ -6,9 +6,12 @@ My thoughts about the process, the mechanisms that are important, how do develop
 
 - coding week might have given you the wrong impression: html / css is boring | it is also not the main part of frontend development
 
-- everybody wants to be agile | Agile Software Development
-
 - frontend development got interesting because of the functionality - most devs hate html and css
+
+
+Things that are important in current software development:
+- everybody wants to be agile | Agile Software Development
+- estimating time
 
 
 
